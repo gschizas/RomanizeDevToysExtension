@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanizeGreekDevToysExtension", "RomanizeGreekDevToysExtension\RomanizeGreekDevToysExtension.csproj", "{882BAB6B-1E3A-4905-88AA-2006FA7748CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{882BAB6B-1E3A-4905-88AA-2006FA7748CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{882BAB6B-1E3A-4905-88AA-2006FA7748CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{882BAB6B-1E3A-4905-88AA-2006FA7748CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{882BAB6B-1E3A-4905-88AA-2006FA7748CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C24A6D8F-C654-46B7-A381-1810E63E8234}
+	EndGlobalSection
+EndGlobal

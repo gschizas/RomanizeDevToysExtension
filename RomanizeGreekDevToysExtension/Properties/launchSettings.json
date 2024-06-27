@@ -1,0 +1,19 @@
+{
+  "profiles": {
+    "DevToys GUI": {
+      "commandName": "Executable",
+      "executablePath": "%DevToysGuiDebugEntryPoint%",
+      "environmentVariables": {
+        "EXTRAPLUGIN": "$(TargetDir)"
+      }
+    },
+    "DevToys CLI": {
+      "commandName": "Executable",
+      "executablePath": "%DevToysCliDebugEntryPoint%",
+      "commandLineArgs": "romanize -i \"Γιώργος Σχίζας\"",
+      "environmentVariables": {
+        "EXTRAPLUGIN": "$(TargetDir)"
+      }
+    }
+  }
+}
